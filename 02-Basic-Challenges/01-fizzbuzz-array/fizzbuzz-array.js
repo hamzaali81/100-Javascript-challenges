@@ -15,6 +15,4 @@ function fizzBuzzArray(number) {
 }
 
 module.exports = fizzBuzzArray;
-// 3 Fizz
-// 5 Buzz
-// 3 5 FizzBuzz
+
